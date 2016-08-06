@@ -1,0 +1,35 @@
+_repo: The-Life-of-Col.-James-GardinerWho-Was-Slain-at-the-Battle-of-Prestonpans-September-21-1745_11253
+_version: 0.0.1
+alternative_title: The Life of Colonel James Gardiner
+creator:
+  author:
+    agent_name: Doddridge, Philip
+    aliases:
+    - Dodderidge, Philip
+    - Doddridge, P. (Philip)
+    birthdate: 1702
+    deathdate: 1751
+    gutenberg_agent_id: '3904'
+    url: http://www.gutenberg.org/2009/agents/3904
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Doddridge_(Nonconformist)
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Soldiers -- Religious life'
+- !lcsh 'Jacobite Rebellion, 1745-1746'
+- !lcsh 'Prestonpans, Battle of, Prestonpans, Scotland, 1745'
+- !lcsh 'Converts'
+- !lcsh 'Gardiner, James, 1688-1745'
+- GITenberg
+title: 'The Life of Col. James Gardiner
+
+  Who Was Slain at the Battle of Prestonpans, September 21, 1745'
+url: http://www.gutenberg.org/ebooks/11253
